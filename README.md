@@ -33,7 +33,8 @@ The key features of this elevator simulation include:
 ## Usage
 1. Clone the repository to your local machine.
 2. Open the solution in your preferred C# development environment (e.g., Visual Studio).
-3. Build and run the application.
+3. Build and run the application
+4. for unit testing and uncomment all code lines in the class "ElevatorControlTests" and Install the MSTest NuGet package "MSTest.TestFramework" and "MSTest.TestAdapter" 
 
 ## Instructions
 1. Upon running the application, you will see the current status of each elevator.
